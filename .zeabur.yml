@@ -1,0 +1,5 @@
+name: openclaw
+services:
+  - name: openclaw
+    type: container
+    startCommand: bash start.sh
